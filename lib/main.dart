@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   int c = 0;
   int d = 0;
+  int m = 0;
   runApp(const MyApp());
 }
 
