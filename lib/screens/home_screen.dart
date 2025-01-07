@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
           Expanded(
             child: Container(
               width: 200,
-              height: 200,
+              height: 199,
               color: Colors.deepPurple[400],
               child: const Center(
                 child: Text("Test my app"),
